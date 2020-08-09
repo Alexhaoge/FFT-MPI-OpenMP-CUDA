@@ -1,6 +1,8 @@
 # FFT-MPI-OpenMP-CUDA
  Parallel FFT for big integer multiplication. Written in three versions: MPI, OpenMP and CUDA(cufft). It is a course assignment of *MPI program design* given by *Prof. Xiang*, *2019 Fall*, *SMS*, *Nankai Univ*.  
  大整数乘法的并行FFT，MPI程序设计课程作业，包括MPI、OpenMP、cuFFT三个版本。
+ 
+ For more details, please see the **[report](https://github.com/Alexhaoge/FFT-MPI-OpenMP-CUDA/blob/master/Report.pdf)**.
 
 ## OpenMP version
 parallel the doacross loop in serial version.
